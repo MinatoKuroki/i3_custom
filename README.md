@@ -1,3 +1,3 @@
 # i3_custom
 
-This includes i3blocks.conf and i3.conf
+This includes i3blocks.conf / i3status.conf and i3 config file
